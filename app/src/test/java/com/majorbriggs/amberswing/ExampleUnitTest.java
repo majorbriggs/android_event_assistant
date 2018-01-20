@@ -15,13 +15,4 @@ public class ExampleUnitTest {
         assertEquals(4, 2 + 2);
     }
 
-    @Test
-    public void dummyTest() throws Exception {
-        assertEquals(1, 1);
-    }
-
-    @Test
-    public void dummyFialingTest() throws Exception {
-        assertEquals(1, 0);
-    }
 }

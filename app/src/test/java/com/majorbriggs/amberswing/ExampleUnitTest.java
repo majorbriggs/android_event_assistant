@@ -19,4 +19,9 @@ public class ExampleUnitTest {
     public void dummyTest() throws Exception {
         assertEquals(1, 1);
     }
+
+    @Test
+    public void dummyFialingTest() throws Exception {
+        assertEquals(1, 0);
+    }
 }
